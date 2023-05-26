@@ -1,1 +1,1 @@
-# Borya is awesome
+# Borya is bad
